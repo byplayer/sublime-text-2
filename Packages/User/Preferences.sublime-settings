@@ -14,5 +14,5 @@
 	//タブやスペースなどの不過視文字を表示(お好みで)
 	"draw_white_space": "all",
 	"font_face": "ＭＳ ゴシック",
-	"font_size": 10.0
+	"font_size": 9.0
 }
