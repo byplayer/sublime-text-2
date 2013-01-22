@@ -1,3 +1,18 @@
 {
-	"color_scheme": "Packages/TextMateThemes/Merbivore Soft.tmTheme"
+	"color_scheme": "Packages/TextMateThemes/Merbivore Soft.tmTheme",
+	"use_tab_stops": true,
+	"tab_size": 2,
+	"auto_indent": true,
+	"smart_indent": true,
+	"indent_to_bracket": true,
+	"word_wrap": "auto",
+	// Set to a value other than 0 to force wrapping at that column rather than the
+	// window width
+	"wrap_width": 0,
+	"auto_complete": true,
+	"find_selected_text": true,
+	//タブやスペースなどの不過視文字を表示(お好みで)
+	"draw_white_space": "all",
+	"font_face": "ＭＳ ゴシック",
+	"font_size": 10.0
 }
